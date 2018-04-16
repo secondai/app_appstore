@@ -2,7 +2,7 @@
   "type": "app_base:Qmtesting",
   "name": "app_store_browser",
   "data": {
-    "appId": "ba44345d-e5f9-4039-9e89-5be77a6c1e34",
+    "appId": "appstore",
     "name": "App Store Default",
     "release": "production",
     "version": 1,
